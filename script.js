@@ -26,3 +26,18 @@ while(Date.now() < start+5000) {
     i++;
 }
 console.log(i);
+
+// while(true) {
+
+// }
+
+let num = 5;
+
+while(num>5){
+    console.log('WHILE');
+}
+
+do {
+    console.log('DO');
+} while(num>5);
+
