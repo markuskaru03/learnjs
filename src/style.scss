@@ -1,6 +1,3 @@
-@use "sass:color";
-$bgcolor: royalblue;
-
-html, body {
-    background-color: color.scale($bgcolor, $lightness: 30%);
-}
+@use "bulma/sass" with (
+    $primary: gold
+);
