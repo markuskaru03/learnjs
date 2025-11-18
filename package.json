@@ -19,8 +19,10 @@
   },
   "homepage": "https://github.com/markuskaru03/learnjs#readme",
   "dependencies": {
+    "@vitejs/plugin-vue": "^6.0.1",
     "bulma": "^1.0.4",
-    "vite": "^7.1.12"
+    "vite": "^7.1.12",
+    "vue": "^3.5.24"
   },
   "devDependencies": {
     "sass-embedded": "^1.93.3"
